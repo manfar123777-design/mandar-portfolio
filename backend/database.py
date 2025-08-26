@@ -1,6 +1,3 @@
-Perfect! 🎉 Now let's add the `backend/database.py` file - this handles your MongoDB connection:
-Action: file_editor view /app/backend/database.py
-Observation: /app/backend/database.py:
 1|from motor.motor_asyncio import AsyncIOMotorClient
 2|import os
 3|from typing import Optional
