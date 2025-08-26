@@ -1,0 +1,15 @@
+/app/backend
+/app/backend/database.py
+/app/backend/seed_data.py
+/app/backend/server.py
+/app/backend/requirements.txt
+/app/backend/__pycache__
+/app/backend/__pycache__/seed_data.cpython-311.pyc
+/app/backend/__pycache__/server.cpython-311.pyc
+/app/backend/__pycache__/database.cpython-311.pyc
+/app/backend/__pycache__/models.cpython-311.pyc
+/app/backend/__pycache__/services.cpython-311.pyc
+/app/backend/services.py
+/app/backend/models.py
+
+
