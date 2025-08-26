@@ -1,6 +1,3 @@
-Excellent! 🎉 Now let's add the `backend/services.py` file - this contains all the business logic for your portfolio operations:
-Action: file_editor view /app/backend/services.py
-Observation: /app/backend/services.py:
 1|from typing import List, Optional
 2|from database import get_database, COLLECTIONS
 3|from models import (
