@@ -1,6 +1,3 @@
-Excellent! 🎉 Now for the final and most important backend file - `backend/seed_data.py` - this contains **all your portfolio data**!
-Action: file_editor view /app/backend/seed_data.py
-Observation: /app/backend/seed_data.py:
 1|from services import PersonalInfoService, ExperienceService, ProjectService, TestimonialService
 2|from models import (
 3|    PersonalInfoCreate, ExperienceCreate, ProjectCreate, TestimonialCreate,
