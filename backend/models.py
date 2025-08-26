@@ -1,6 +1,3 @@
-Perfect! Here's the `backend/models.py` file - this defines all your data structures:
-Action: file_editor view /app/backend/models.py
-Observation: /app/backend/models.py:
 1|from pydantic import BaseModel, Field, EmailStr
 2|from typing import List, Optional
 3|from datetime import datetime
